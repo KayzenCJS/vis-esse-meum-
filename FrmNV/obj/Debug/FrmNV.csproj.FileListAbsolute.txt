@@ -1,0 +1,10 @@
+C:\Users\Kayzen CJS\source\repos\FrmNV\FrmNV\bin\Debug\FrmNV.exe.config
+C:\Users\Kayzen CJS\source\repos\FrmNV\FrmNV\bin\Debug\FrmNV.exe
+C:\Users\Kayzen CJS\source\repos\FrmNV\FrmNV\bin\Debug\FrmNV.pdb
+C:\Users\Kayzen CJS\source\repos\FrmNV\FrmNV\obj\Debug\FrmNV.Form1.resources
+C:\Users\Kayzen CJS\source\repos\FrmNV\FrmNV\obj\Debug\FrmNV.Properties.Resources.resources
+C:\Users\Kayzen CJS\source\repos\FrmNV\FrmNV\obj\Debug\FrmNV.csproj.GenerateResource.cache
+C:\Users\Kayzen CJS\source\repos\FrmNV\FrmNV\obj\Debug\FrmNV.csproj.CoreCompileInputs.cache
+C:\Users\Kayzen CJS\source\repos\FrmNV\FrmNV\obj\Debug\FrmNV.exe
+C:\Users\Kayzen CJS\source\repos\FrmNV\FrmNV\obj\Debug\FrmNV.pdb
+C:\Users\Kayzen CJS\source\repos\FrmNV\FrmNV\obj\Debug\FrmNV.csproj.AssemblyReference.cache
